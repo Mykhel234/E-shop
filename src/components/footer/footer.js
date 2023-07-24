@@ -14,7 +14,7 @@ const Footer = () => {
 			to: "/products",
 		},
 		{
-			name: "(+234) 906 558 2156",
+			name: "(+234) 909 111 0324",
 			to: "#",
 		},
 	];
@@ -34,15 +34,15 @@ const Footer = () => {
 					<p className="footer_link">
 						Made with &#9829; by{" "}
 						<a
-							href="https://github.com/emekamykael45"
+							href="https://github.com/Mykhel234"
 							target="_blank"
 							rel="noreferrer"
 						>
-							Michael Azonobi C.
+							Michael Oyilawu O.
 						</a>
 					</p>
 					<p className="footer_link">
-						&#169; 2021 Houseparty . All rights reserved.
+						&#169; 2023 Houseparty . All rights reserved.
 					</p>
 				</div>
 			</div>
